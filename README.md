@@ -4,4 +4,4 @@ npm i
 
 npm start
 
-Instructions provided via email. Contact muhammed.constantino@contentstack.com with any questions.
+Instructions provided via email. Contact ben.ellsworth@contentstack.com with any questions.
